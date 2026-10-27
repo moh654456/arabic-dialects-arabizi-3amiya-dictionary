@@ -1,0 +1,9 @@
+name: "English (iPhone)"
+description: "QWERTY with iPhone-style long-press accents and bottom row."
+languages: en
+attributes: {moreKeyMode: OnlyExplicit}
+rows:
+  - letters: [q, w, [e, è, é, ê, ë, ē, ė, ę], r, t, [y, ÿ], [u, û, ü, ù, ú, ū], [i, î, ï, í, ī, į, ì], [o, ô, ö, ò, ó, œ, ø, ō, õ], p]
+  - letters: [[a, à, á, â, ä, æ, ã, å, ā], [s, ß, ś, š], d, f, g, h, j, k, [l, ł]]
+  - letters: ["$shift", [z, ž, ź, ż], x, [c, ç, ć, č], v, b, [n, ñ, ń], m, "$delete"]
+  - bottom: "$symbols $action $space $enter"

@@ -1,0 +1,291 @@
+{
+  "format": "wmkeyboard-layout",
+  "version": 1,
+  "layout": {
+    "id": "user_ar_ios",
+    "name": "العربية (iOS-style)",
+    "langId": "ar",
+    "version": 2,
+    "layers": {
+      "letters": {
+        "rows": [
+          [
+            {
+              "label": "ض",
+              "longPress": [
+                "َ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ص",
+              "longPress": [
+                "ً"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ث",
+              "longPress": [
+                "ُ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ق",
+              "longPress": [
+                "ٌ",
+                "ڨ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ف",
+              "longPress": [
+                "ِ",
+                "ڤ",
+                "ڢ",
+                "ڥ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "غ",
+              "longPress": [
+                "ٍ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ع",
+              "longPress": [
+                "ْ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ه",
+              "longPress": [
+                "ّ",
+                "ﻫ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "خ",
+              "longPress": [
+                "ٰ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ح",
+              "longPress": [
+                "ٓ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ج",
+              "longPress": [
+                "ـ",
+                "چ"
+              ],
+              "hideHint": true
+            }
+          ],
+          [
+            {
+              "label": "ش",
+              "longPress": [
+                "ڜ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "س",
+              "hideHint": true
+            },
+            {
+              "label": "ي",
+              "longPress": [
+                "ئ",
+                "ى"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ب",
+              "longPress": [
+                "پ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ل",
+              "longPress": [
+                "لا",
+                "لأ",
+                "لإ",
+                "لآ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ا",
+              "longPress": [
+                "آ",
+                "ء",
+                "أ",
+                "إ",
+                "ٱ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ت",
+              "hideHint": true
+            },
+            {
+              "label": "ن",
+              "hideHint": true
+            },
+            {
+              "label": "م",
+              "hideHint": true
+            },
+            {
+              "label": "ك",
+              "longPress": [
+                "گ",
+                "ک"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ة",
+              "longPress": [
+                "ه"
+              ],
+              "hideHint": true
+            }
+          ],
+          [
+            {
+              "label": "ء",
+              "longPress": [
+                "أ",
+                "إ",
+                "ؤ",
+                "ئ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ظ",
+              "hideHint": true
+            },
+            {
+              "label": "ط",
+              "hideHint": true
+            },
+            {
+              "label": "ذ",
+              "hideHint": true
+            },
+            {
+              "label": "د",
+              "hideHint": true
+            },
+            {
+              "label": "ز",
+              "longPress": [
+                "ژ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ر",
+              "hideHint": true
+            },
+            {
+              "label": "و",
+              "longPress": [
+                "ؤ"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "ى",
+              "longPress": [
+                "ئ",
+                "ي"
+              ],
+              "hideHint": true
+            },
+            {
+              "label": "⌫",
+              "action": {
+                "type": "delete"
+              },
+              "width": 1.5
+            }
+          ],
+          [
+            {
+              "label": "?123",
+              "action": {
+                "type": "symbols"
+              },
+              "width": 1.5
+            },
+            {
+              "label": "،",
+              "longPress": [
+                "؟",
+                "؛",
+                "ـ",
+                ",",
+                "!",
+                "?"
+              ],
+              "role": "Comma"
+            },
+            {
+              "label": "🌐",
+              "action": {
+                "type": "language_switch"
+              }
+            },
+            {
+              "label": " ",
+              "action": {
+                "type": "space"
+              },
+              "width": 4
+            },
+            {
+              "label": ".",
+              "longPress": [
+                "…",
+                "٪",
+                "؟",
+                "!",
+                ":",
+                ";"
+              ],
+              "role": "Period"
+            },
+            {
+              "label": "⏎",
+              "action": {
+                "type": "enter"
+              },
+              "width": 1.5
+            }
+          ]
+        ]
+      }
+    }
+  }
+}
